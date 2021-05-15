@@ -19,3 +19,7 @@ https://wcschatz.github.io/rrg
 ![On top of Caver's Route](TopofCaversRoute.JPG) _From the top of Tower Rock_, Photo by Connor Schatz
 
 ![Descent from Caver's Route](Descent_CaversRoute.JPG) _Repelling from the top of Tower Rock_, Photo by Connor Schatz
+
+![Lidar map of the Cherokee Park Teepee](Cherokee_Teepee.JPG) _A LIDAR map of the Teepee in Cherokee Park, Louisville, KY_, Created by Connor Schatz
+
+[3D render of the Cherokee Park Teepee](https://youtu.be/vMDUF8-S56U)
